@@ -30,32 +30,30 @@ a();
 ### 2017-11-3
 #### Web 前端技术学习路线图
  
-上面说了这么多，到底如何一步步掌握这些技术呢？ 下面推荐一个学习路线图，希望对初学者有帮助。
+* Javascript 语言：全栈开发中，用的编程语言就是 javascript
  
-Javascript 语言：全栈开发中，用的编程语言就是 javascript
+* HTML5 标签和 DOM：这是前端最核心技术，为之后学习各种开发框架，打下坚实基础。
  
-HTML5 标签和 DOM：这是前端最核心技术，为之后学习各种开发框架，打下坚实基础。
+* CSS3：学习通过 css 开发网页和各种可视 UI 组件。
  
-CSS3：学习通过 css 开发网页和各种可视 UI 组件。
+* SASS：利用 sass 语言，开发复杂的页面 css
  
-SASS：利用 sass 语言，开发复杂的页面 css
+* Node.js：掌握Node.js 核心 API ，具备后端开发能力。
  
-Node.js：掌握Node.js 核心 API ，具备后端开发能力。
+* Express 5.x 框架：掌握 Express 框架，从而具备快速开发后端程序的能力。
  
-Express 5.x 框架：掌握 Express 框架，从而具备快速开发后端程序的能力。
+* socket.io 库：让前后端通过 websocket协议通信，是web 开发游戏、聊天等程序必备技术。
  
-socket.io 库：让前后端通过 websocket协议通信，是web 开发游戏、聊天等程序必备技术。
+* Mongoose 框架：可以让程序具备文档数据储存能力
  
-Mongoose 框架：可以让程序具备文档数据储存能力
+* Git 命令与 github：可以对项目进行版本管理，从而能团队开发项目。
  
-Git 命令与 github：可以对项目进行版本管理，从而能团队开发项目。
+* Gulp 构建工具实战：通过 gulp 工具，灵活对项目进行构建。
  
-Gulp 构建工具实战：通过 gulp 工具，灵活对项目进行构建。
+* Webpack：可以用和 Node.js 后端模块化方式，开发前端程序，从而能开发大型系统。
  
-Webpack：可以用和 Node.js 后端模块化方式，开发前端程序，从而能开发大型系统。
+* Jasmine & Karma：可以利用 Jasmine & Karma 轻松实现，多种浏览器同时进行单元测试，而不必切换界面。
  
-Jasmine & Karma：可以利用 Jasmine & Karma 轻松实现，多种浏览器同时进行单元测试，而不必切换界面。
+* 前端相关框架：JQuery ／ Bootstrap ／ Vue.js ／React ／ Angular通过框架帮我我们快速开发程序
  
-前端相关框架：JQuery ／ Bootstrap ／ Vue.js ／React ／ Angular通过框架帮我我们快速开发程序
- 
-移动端与桌面程序开发工具：phonegap ／ react-native / electron / 微信小程序开发，这套工具，基本上只是打包工具，和提供了一些特定平台 API ，开发还是使用之前的 Web 技术。
+* 移动端与桌面程序开发工具：phonegap ／ react-native / electron / 微信小程序开发，这套工具，基本上只是打包工具，和提供了一些特定平台 API ，开发还是使用之前的 Web 技术。
